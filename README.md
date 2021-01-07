@@ -17,7 +17,7 @@ A. To run this project, install it locally using npm:
 $ npm i
 ```
 then
- B. For Adding an ID  
+ B. For Adding a new student data  
  
     ```
        $ node app.js add --id=123 --name="student1" --grade=123 --comment="good" 
@@ -25,7 +25,7 @@ then
       
    **New Student data added!**  
             
- C. For Removing a student data by id  
+ C. For Removing a student data by ID  
  
      ```    
        $ node app.js remove --id=123
