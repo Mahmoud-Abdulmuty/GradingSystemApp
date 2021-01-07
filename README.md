@@ -14,7 +14,7 @@ Project is created with:
 To run this project, install it locally using npm:
 
 ```
-$ npm install  npm i
+$ npm i
 ```
 then
  B. For Adding an ID  
