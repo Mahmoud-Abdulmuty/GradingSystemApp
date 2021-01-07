@@ -36,7 +36,7 @@ then
  D. For Reading a Specific student data by ID  
  
     ``` 
-       $ node app.js read --ID=1 
+       $ node app.js read --id=123 
     ```  
     
    If student found then **id="123" -- name="student1" -- grade=12 -- comment="good"** if not then **No ID found!**
