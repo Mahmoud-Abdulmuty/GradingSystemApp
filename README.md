@@ -7,11 +7,11 @@
 This project is a simple Grading System App using Node.js in which we can Add an (ID,Name,Grade,Comment)for the students data, Remove a student data by ID, Read a specific a student data and can List all the students data from the file. All data are saved in the JSON file.
 	
 ## Technologies
-Project is created with:
+Project is created with
 * Nodejs
 	
 ## Setup
-To run this project, install it locally using npm:
+A. To run this project, install it locally using npm:
 
 ```
 $ npm i
