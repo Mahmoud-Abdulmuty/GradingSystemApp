@@ -1,4 +1,4 @@
-## Grading System App
+# Grading System App
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
